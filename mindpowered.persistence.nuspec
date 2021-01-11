@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>mindpowered.persistence</id>
+        <version>0.0.1</version>
+        <title>persistence</title>
+        <authors>Mind Powered Corporation</authors>
+        <owners>Mind Powered Corporation</owners>
+        <licenseUrl>https://mindpowered.dev/</licenseUrl>
+        <projectUrl>https://mindpowered.dev/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Persistence</description>
+        <copyright>Copyright 2020 Mind Powered Corporation</copyright>
+        <tags>mindpowered</tags>
+        <dependencies>
+            <dependency id="mindpowered.maglev" version="*" />
+        </dependencies>
+        <summary>Persistence</summary>
+  </metadata>
+</package>
